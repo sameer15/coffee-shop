@@ -6,3 +6,4 @@ Feature:
     Given I expect a message 'coffees are not sold on Mondays'
     When the day is Monday
     And I try to order a coffee
+    And Highlight the changes!!
